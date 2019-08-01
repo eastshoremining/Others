@@ -1,0 +1,1 @@
+The Gridseed Mini is a dedicated Bitcoin/Litecoin mining unit, using five GC3355 chips housed within a sizeable heatsink topped with a box fan. The dual mode of Bitcoin/Litecoin mining is supported. Under dual mode, the miner can mine Bitcoin and Litecoin at the same time with a hash speed of 5GH/s for Bitcoin mining and 330KH/s for Litecoin mining.
