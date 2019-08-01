@@ -1,4 +1,5 @@
 GALAXY Mining P106-100 is designed for coin mining with high-efficiency components – delivering maximum hash-rate production at minimum cost.
+The following drivers applies to for all Nvidia P106-100 core based mining graphics cards.
 
 
 <h3>Driver</h3>
