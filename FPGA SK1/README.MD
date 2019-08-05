@@ -6,6 +6,7 @@ The AGPF SK1 is a distinctive FPGA miner. The FPGA miner AGPF SK1 has a current 
 <b>v0.1.5:</b> https://drive.google.com/file/d/1V8plT7dMEUAR6CyEfnUhN9TOxl6rI6xJ/view?usp=sharing
 
 
+
 <h3>Image</h3>
 
 The word "Image" here does not refer to pictures(.JPG, .PNG, etc.).
