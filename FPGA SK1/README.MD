@@ -15,3 +15,5 @@ The word "Image" here does not refer to pictures(.JPG, .PNG, etc.).
 In crypto mining, a system image is a serialized copy of the entire state of a miner's mining system stored in some non-volatile form such as a file. Usually, if your mining machine has serious problems, you can try to use the Image file to recover your mining machine.
 
 <b>20190528-openwrt-brcm2708-bcm2708-rpi-squashfs-factory.img.gz:</b> https://drive.google.com/file/d/1NXNHmzaIIVQBRmu068L8CR7B-DUpUdRN/view?usp=sharing
+
+<b>Version - 2019-10-31:</b> https://drive.google.com/open?id=1MJQflK_MZtDPcmKNS1VGBIphpyHvRBFz
