@@ -8,6 +8,11 @@ The AGPF SK1 is a distinctive FPGA miner. The FPGA miner AGPF SK1 has a current 
 <b>Version - 2019-10-31:</b> https://drive.google.com/open?id=1MJQflK_MZtDPcmKNS1VGBIphpyHvRBFz
 
 
+<h3>Odocrypt Bitstream</h3>
+
+https://drive.google.com/drive/folders/1cJxTiw6r0Jew9ofGCdZqusrR5EtG3q-J?usp=sharing
+
+
 <h3>Image</h3>
 
 The word "Image" here does not refer to pictures(.JPG, .PNG, etc.).
@@ -17,3 +22,5 @@ In crypto mining, a system image is a serialized copy of the entire state of a m
 <b>20190528-openwrt-brcm2708-bcm2708-rpi-squashfs-factory.img.gz:</b> https://drive.google.com/file/d/1NXNHmzaIIVQBRmu068L8CR7B-DUpUdRN/view?usp=sharing
 
 <b>Version - 2019-10-31:</b> https://drive.google.com/open?id=1MJQflK_MZtDPcmKNS1VGBIphpyHvRBFz
+
+<b>Version - 2020-03-19:</b> https://drive.google.com/file/d/1j6pj2W4okdGV4fyXxFTIZDfIkr4lGZlm/view?usp=sharing
